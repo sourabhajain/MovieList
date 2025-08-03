@@ -17,22 +17,6 @@ A simple **React + Vite** web application to showcase a list of movies. This pro
 
 ---
 
-## 📂 Project Structure
-
-frontend/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   ├── App.jsx
-│   └── main.jsx
-├── package.json
-├── vite.config.js
-└── README.md
-
----
-
 ## ⚙️ Available Scripts
 | Command            | Description                                      |
 |--------------------|--------------------------------------------------|
